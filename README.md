@@ -20,16 +20,19 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 ### 🎯 [polymarket-sniping-trading-bot](https://github.com/0xpolyD/polymarket-sniping-trading-bot)
 
 **Endcycle Sniper** — short-cycle directional bot for BTC / ETH **Up-or-Down** 5m & 15m markets.
+
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ [polymarket-arbitrage-bot](https://github.com/0xpolyD/polymarket-arbitrage-bot)
 
 **Arbitrage Bot** — finds pricing inefficiencies across markets and executes automatically.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
 ### 🔄 [polymarket-copytrading-bot](https://github.com/0xpolyD/polymarket-copytrading-bot)
 
 **Copy Trading Bot** — mirrors selected wallets with configurable risk controls.
@@ -40,6 +43,7 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 ### 📡 [polymarket-monitor](https://github.com/0xpolyD/polymarket-monitor)
 
 **Wallet Monitor** — track special users across prediction markets.
+
 </td>
 </tr>
 </table>
