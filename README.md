@@ -19,11 +19,6 @@ Building **Polymarket trading toolkits** — automated bots and monitoring syste
 
 Each repo is a focused tool: snipe short-cycle markets, capture cross-market inefficiencies, mirror profitable wallets, or track specific traders in real time. Designed for speed, automation, and production-style execution on the CLOB.
 
-
----
-
-## Pinned Repositories
-
 <table>
 <tr>
 <td width="50%" valign="top">
