@@ -59,7 +59,7 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 
 ## Disclaimer
 
-These repositories describe personal automated trading and research tools. **Not financial advice.** Prediction markets are risky — you can lose 100% of deployed capital. Use only what you can afford to lose and verify Polymarket availability in your jurisdiction.
+These repositories describe personal automated trading and research tools.
 
 ---
 <p align="center">
