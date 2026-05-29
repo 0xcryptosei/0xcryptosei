@@ -6,7 +6,9 @@
   <a href="https://youtube.com/@0xseidev"><img src="https://img.shields.io/badge/YouTube-S.E.I-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @S.E.I" /></a>
   <a href="https://polymarket.com/@sei-ddev"><img src="https://img.shields.io/badge/Polymarket-%40sei--ddev-1652F0?style=for-the-badge" alt="Polymarket @sei-ddev" /></a>
 </p>
+
 ---
+
 ## About
 
 Building **Polymarket trading toolkits** — automated bots and monitoring systems for prediction markets on **Polymarket v2**.
@@ -49,8 +51,11 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 </table>
 
 ## Disclaimer
+
 These repositories describe personal automated trading and research tools.
+
 ---
+
 <p align="center">
   <sub>Polymarket trading toolkits · pinned for builders & traders · inspired by the open Polymarket builder ecosystem</sub>
 </p>
