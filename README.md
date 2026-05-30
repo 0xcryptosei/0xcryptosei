@@ -52,7 +52,7 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 
 ## Disclaimer
 
-These repositories describe personal automated trading and research tools.
+   These repositories describe personal automated trading and research tools.
 
 ---
 
