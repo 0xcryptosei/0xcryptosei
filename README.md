@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Polymarket · Auto Trading Bots · Builder</strong>
+<h1 align="center"><strong> Auto Trading Bots · Builder</strong>
 </h1>
 <p align="center">
   <a href="https://x.com/ajee335"><img src="https://img.shields.io/badge/Twitter-S.E.I-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @S.E.I" /></a>
