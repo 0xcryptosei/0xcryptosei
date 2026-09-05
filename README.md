@@ -7,13 +7,6 @@
   <a href="https://polymarket.com/@sei-ddev"><img src="https://img.shields.io/badge/Polymarket-%40sei--ddev-1652F0?style=for-the-badge" alt="Polymarket @sei-ddev" /></a>
 </p>
 
----
-
-> **Previously focused on building Polymarket trading bots and automated prediction-market strategies.**
->
-> Built tools for **sniping, arbitrage, copy trading, and real-time wallet monitoring** on Polymarket.
-
----
 
 ## About
 
