@@ -1,5 +1,5 @@
-<h1 align="center"><strong> Auto Trading Bots · Builder</strong>
-</h1>
+<h1 align="center"><strong>Auto Trading Bots · Builder</strong></h1>
+
 <p align="center">
   <a href="https://x.com/ajee335"><img src="https://img.shields.io/badge/Twitter-S.E.I-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @S.E.I" /></a>
   <a href="https://t.me/sei_dev"><img src="https://img.shields.io/badge/Telegram-S.E.I-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sei_dev" /></a>
@@ -9,11 +9,25 @@
 
 ---
 
+> **Previously focused on building Polymarket trading bots and automated prediction-market strategies.**
+>
+> Built tools for **sniping, arbitrage, copy trading, and real-time wallet monitoring** on Polymarket.
+
+---
+
 ## About
 
-Building **Polymarket trading toolkits** — automated bots and monitoring systems for prediction markets on **Polymarket v2**.
+Building **automated trading tools and execution systems** for prediction markets and on-chain markets.
 
-Each repo is a focused tool: snipe short-cycle markets, capture cross-market inefficiencies, mirror profitable wallets, or track specific traders in real time. Designed for speed, automation, and production-style execution on the CLOB.
+Previously focused on **Polymarket bots**, developing different strategies around short-cycle markets, arbitrage, copy trading, and real-time trader monitoring.
+
+Each repo is a focused tool built around a specific trading workflow — from detecting opportunities and monitoring wallets to automated execution.
+
+Designed with a focus on **speed, automation, market data, and production-style execution**.
+
+---
+
+## Polymarket Trading Bots
 
 <table>
 <tr>
@@ -21,40 +35,39 @@ Each repo is a focused tool: snipe short-cycle markets, capture cross-market ine
 
 ### 🎯 [polymarket-sniping-trading-bot](https://github.com/0xcryptosei/polymarket-trading-bot)
 
-**Endcycle Sniper** — short-cycle directional bot for BTC / ETH **Up-or-Down** 5m & 15m markets.
+**Endcycle Sniper** — short-cycle directional trading bot for BTC / ETH **Up-or-Down** 5m & 15m markets.
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚡ [polymarket-arbitrage-bot](https://github.com/0xcryptosei/polymarket-arbitrage-bot)
 
-**Arbitrage Bot** — finds pricing inefficiencies across markets and executes automatically.
+**Arbitrage Bot** — detects pricing inefficiencies across markets and executes trades automatically.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-  
+
 ### 🔄 [polymarket-copytrading-bot](https://github.com/0xcryptosei/polymarket-copytrading-bot)
 
-**Copy Trading Bot** — mirrors selected wallets with configurable risk controls.
+**Copy Trading Bot** — mirrors selected wallets with configurable position sizing and risk controls.
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📡 [polymarket-monitor](https://github.com/0xcryptosei/polymarket-monitor)
 
-**Wallet Monitor** — track special users across prediction markets.
+**Wallet Monitor** — tracks selected traders and wallets across prediction markets in real time.
 
 </td>
 </tr>
 </table>
 
 ## Disclaimer
-
-   These repositories describe personal automated trading and research tools.
-
----
 
 <p align="center">
   <sub>Polymarket trading toolkits · pinned for builders & traders · inspired by the open Polymarket builder ecosystem</sub>
