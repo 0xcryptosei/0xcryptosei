@@ -1,67 +1,449 @@
-<h1 align="center"><strong>Auto Trading Bots · Builder</strong></h1>
+# Blockchain Full-Stack AI Engineer
 
-<p align="center">
-  <a href="https://x.com/ajee335"><img src="https://img.shields.io/badge/Twitter-S.E.I-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @S.E.I" /></a>
-  <a href="https://t.me/sei_dev"><img src="https://img.shields.io/badge/Telegram-S.E.I-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sei_dev" /></a>
-  <a href="https://youtube.com/@0xseidev"><img src="https://img.shields.io/badge/YouTube-S.E.I-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @S.E.I" /></a>
-  <a href="https://polymarket.com/@sei-ddev"><img src="https://img.shields.io/badge/Polymarket-%40sei--ddev-1652F0?style=for-the-badge" alt="Polymarket @sei-ddev" /></a>
-</p>
+> The sky has no limits. Why limit yourself
 
+Building high-performance decentralized applications with a deep focus on smart contracts, DeFi, and scalable backend systems.
 
 ## About
 
-Building **automated trading tools and execution systems** for prediction markets and on-chain markets.
 
-Previously focused on **Polymarket bots**, developing different strategies around short-cycle markets, arbitrage, copy trading, and real-time trader monitoring.
+My passion lies in **DeFi protocol architecture**, **smart contract integration**, and **high-throughput backend systems** and bridging **AI**, **blockchain**, and **real-world data** to create full-stack decentralized applications that scale.
 
-Each repo is a focused tool built around a specific trading workflow — from detecting opportunities and monitoring wallets to automated execution.
 
-Designed with a focus on **speed, automation, market data, and production-style execution**.
+## Featured Projects
 
----
+### DeFi & Polymarket
 
-## Polymarket Trading Bots
+#### 📈 Polymarket HFT (MM) Bot
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🎯 [polymarket-sniping-trading-bot](https://github.com/0xcryptosei/polymarket-trading-bot)
+**+$100k profits** with a high-frequency market-making bot for Polymarket crypto **Up/Down** markets. Quotes both sides throughout each interval, captures spread, and rotates inventory — **unaffected by platform updates** (including Polymarket’s TWAP price change). Evolved from an endcycle sniper strategy after TWAP removed late-cycle edge.
 
-**Endcycle Sniper** — short-cycle directional trading bot for BTC / ETH **Up-or-Down** 5m & 15m markets.
+**Tech Stack:** Rust, Python, AI, Predictive Models, Polygon, Web3
 
-</td>
+**Stats:** 50K+ Downloads | 95% Satisfaction
 
-<td width="50%" valign="top">
+**Profile:** [@flippingsharks](https://polymarket.com/@flippingsharks)
 
-### ⚡ [polymarket-arbitrage-bot](https://github.com/0xcryptosei/polymarket-arbitrage-bot)
-
-**Arbitrage Bot** — detects pricing inefficiencies across markets and executes trades automatically.
+🔗 [Live Demo](https://polymarket.com/@flippingsharks)
 
 </td>
-</tr>
+<td width="40%">
 
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 [polymarket-copytrading-bot](https://github.com/0xcryptosei/polymarket-copytrading-bot)
-
-**Copy Trading Bot** — mirrors selected wallets with configurable position sizing and risk controls.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 [polymarket-monitor](https://github.com/0xcryptosei/polymarket-monitor)
-
-**Wallet Monitor** — tracks selected traders and wallets across prediction markets in real time.
+<img src="./assets/polybot.png" alt="Polymarket HFT MM Bot" width="100%" />
 
 </td>
 </tr>
 </table>
 
-## Disclaimer
+---
 
-<p align="center">
-  <sub>Polymarket trading toolkits · pinned for builders & traders · inspired by the open Polymarket builder ecosystem</sub>
-</p>
+#### 📊 Polymarket Analysis Toolkit (Polyhub)
+
+<table>
+<tr>
+<td width="60%">
+
+Private full-stack Polymarket analysis dashboard — real-time **BTC / ETH / SOL** market monitoring, **Chainlink & Binance** price feeds, **TWAP / backtest** analysis, paper trading strategies, and server log health dashboards. Built for cycle timing, spread analysis, and strategy validation across 5m and 15m Up/Down markets.
+
+**Tech Stack:** Rust, Python, React, Node.js
+
+**Features:** Live Market Window Charts | Multi-asset Feeds | TWAP Analysis | Paper Trading | Backtest Engine | Server Health Logs
+
+**Stats:** 15K+ Lines | 5K+ Users
+
+</td>
+<td width="40%">
+
+<img src="./assets/polyhub.png" alt="Polymarket Analysis Toolkit" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### AI Agents & Automation
+
+#### 🤖 AgentiPy
+
+<table>
+<tr>
+<td width="60%">
+
+The Python toolkit for connecting AI agents to any onchain app. Open-source framework that enables AI agents to seamlessly perform on-chain actions on Solana and Base, bringing blockchain power to AI automation.
+
+**Tech Stack:** Python, Solana, OpenAI, LLM, Node.js
+
+**Stats:** 10.5k+ Downloads | 262 Stars | 100 Forks
+
+🔗 [Live Demo](https://agentipy.fun/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/agentipy.png" alt="AgentiPy" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🎯 Ocoya
+
+<table>
+<tr>
+<td width="60%">
+
+N8N but for social media. Don't hire a social media agency - content creation and engagement with AI agents and workflows. Trusted by 532,865+ customers worldwide. Features automation templates, scheduling, and AI-powered content generation.
+
+**Tech Stack:** Next.js, WebSocket, MongoDB, Python
+
+**Features:** AI Workflows | Content Automation | Social Media Scheduling | Agency Tools | Multi-platform Integration
+
+🔗 [Live Demo](https://www.ocoya.com/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/ocoya.png" alt="Ocoya" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### ⛓️ Onyx AI Agent (EVM AI Agent)
+
+<table>
+<tr>
+<td width="60%">
+
+AI-powered DeFi platform that simplifies blockchain interactions across multiple networks. Connect your wallet and execute operations like checking balances, deploying smart contracts, launching tokens, and swapping assets using natural language. Supports Arbitrum, Avalanche, BNB Chain, Ethereum, Polygon, Solana, Linea, Optimism, and Base.
+
+**Tech Stack:** EVM, Node.js, MongoDB, AI, TypeScript
+
+**Features:** Multi-chain Support | Wallet Integration | Smart Contract Deployment | Token Launch | Asset Swapping | Chat Interface
+
+🔗 [Live Demo](https://ai.onyx.org)
+
+</td>
+<td width="40%">
+
+<img src="./assets/onyx.png" alt="Onyx AI Agent" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### Blockchain Games
+
+#### 🐍 Slither Game
+
+<table>
+<tr>
+<td width="60%">
+
+Skill-based multiplayer game with real-time gameplay, live leaderboards, and Solana wallet integration. Features customizable characters, entry fee system, and play-to-earn mechanics. High-performance architecture delivers smooth, addictive gameplay.
+
+**Tech Stack:** Node.js, MongoDB, Solana, TypeScript
+
+**Features:** Live Leaderboard | Wallet Integration | Customizable Appearance | Entry Fee System
+
+🔗 [Live Demo](https://pvplabs.xyz/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/snake.png" alt="Slither Game" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🎰 GGsol Game
+
+<table>
+<tr>
+<td width="60%">
+
+Cryptocurrency-themed online casino game with provably fair system, real-time betting, and live chat. Features coin-flip mechanics, round history tracking, XP system, and Solana wallet integration. Blends regulatory compliance, advanced security, and seamless performance.
+
+**Tech Stack:** React, TypeScript, Solana, Node.js
+
+**Features:** Provably Fair System | Real-time Betting | Live Chat | XP & Rewards System | Round History
+
+🔗 [Live Demo](https://ggsol.io/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/casino.png" alt="GGsol Game" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🎲 Luck Game (LUCK.IO)
+
+<table>
+<tr>
+<td width="60%">
+
+Comprehensive DeFi casino platform featuring multiple classic games including Mines, Dice, Crash, Plinko, Coinflip, Roulette, and more. Fully transparent with $9M+ bankroll, $948M+ total wagered, 201M+ bets, and 98.61% Net RTP. Features instant settlement through smart contracts, provably fair gaming, private play (no KYC), and self-custody wallet integration.
+
+**Tech Stack:** TypeScript, React Vite, Node.js, MongoDB
+
+**Features:** Multiple Game Modes | Provably Fair | Instant Settlement | Live Payout Tracking | High RTP Rates (98%+) | Wallet Integration | Gem Collection | Blockchain Explorer
+
+🔗 [Live Demo](https://luck.io/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/luck.png" alt="Luck Game" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### ⛏️ Bitcoin Mining Game (The Rune Guardians: Chronicles of Midgard)
+
+<table>
+<tr>
+<td width="60%">
+
+Fantasy-themed Bitcoin mining game set in the realm of Midgard. Explore six enchanting regions, mine rare runes and precious materials while circling the majestic Rune Castle. Balanced in-game economics and engaging gameplay that reflects real mining dynamics.
+
+**Tech Stack:** React, BTC, Node.js, MongoDB
+
+**Features:** Multiple Regions | Rune Mining | Material Collection | Bitcoin Wallet Integration | Fantasy World
+
+🔗 [Live Demo](https://theruneguardians.com/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/bt.png" alt="Bitcoin Mining Game" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🥊 Fighters Unbound
+
+<table>
+<tr>
+<td width="60%">
+
+Designed and shipped the entire **AI NFT evolution platform** — LangGraph + ChromaDB + Ollama agent system, Strava-powered NFT evolution, phased minting contracts, and full frontend/backend for **5,200 dynamic NFTs**. Fighters evolve based on real-world activity and on-chain progression.
+
+**Tech Stack:** Next.js, Solidity, AI, Python, EVM
+
+**Features:** AI Agent Evolution | Strava Integration | Phased Minting | Dynamic NFT Metadata | Full-stack Game Platform
+
+**Stats:** 15K+ Lines | 5K+ Users
+
+🔗 [Live Demo](https://www.unbound.games/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/unboundgames.jpg" alt="Fighters Unbound" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### Full-Stack AI Applications
+
+#### 📄 ChatDOC
+
+<table>
+<tr>
+<td width="60%">
+
+AI-powered tool designed to help users interact with documents in a simple and efficient way. Ask questions, extract information, and analyze documents with AI.
+
+**Tech Stack:** Next.js, MongoDB, AI, Python
+
+🔗 [Live Demo](https://chatdoc.com/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/blog.png" alt="ChatDOC" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 📝 Free Resume Builder (CVJury)
+
+<table>
+<tr>
+<td width="60%">
+
+Online resume builder that opens doors. Empower your job hunt with one powerful platform. Get everything you need to land more interviews - resume and cover letter builder, scanner, LinkedIn optimizations, and professional resume review by certified experts.
+
+**Tech Stack:** React Vite, Python, MongoDB, Node.js, AI
+
+**Features:** Resume Builder | Cover Letter Builder | LinkedIn Optimization | Resume Scanner | Professional Review | CV Templates
+
+🔗 [Live Demo](https://cvjury.com/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/cvjury.png" alt="CVJury" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🎨 Sintra
+
+<table>
+<tr>
+<td width="60%">
+
+Modern product platform featuring interactive 3D characters and immersive user experiences. Clean, futuristic design with engaging UI/UX.
+
+**Tech Stack:** React vite, Node.js, AI, Python, PostgreSQL
+
+**Features:** 3D Character Integration | Modern UI/UX | Interactive Design
+
+🔗 [Live Demo](https://sintra.ai/soshie)
+
+</td>
+<td width="40%">
+
+<img src="./assets/sintra.png" alt="Sintra" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### Blockchain Infrastructure
+
+#### 💼 BlockAI
+
+<table>
+<tr>
+<td width="60%">
+
+Cutting-edge market making & launch services since 2018. Professional DeFi services platform providing comprehensive market making solutions and token launch services for blockchain projects.
+
+**Tech Stack:** React, Node.js, Web3
+
+**Features:** Market Making Services | Token Launch Services | DeFi Solutions | Professional Consulting
+
+🔗 [Live Demo](https://blockai.com)
+
+</td>
+<td width="40%">
+
+<img src="./assets/blockAI.png" alt="BlockAI" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🚀 Agents.Land (Memecoin Launchpad)
+
+<table>
+<tr>
+<td width="60%">
+
+Take your agent to the promised land. Next-generation token launchpad platform featuring live token tracking, subscription system, and DEX listings. Built for both Solana and EVM-compatible chains, designed to make launching tokens fast, fair, and fun. Features real-time market cap tracking, token analytics, and gamified pixel art interface.
+
+**Tech Stack:** Next.js, Solana, MongoDB, EVM, Web3
+
+**Features:** Token Launch | Live Tracking | Subscription System | DEX Listings | Market Analytics | Strongbox Vault | Campaign Management
+
+🔗 [Live Demo](https://agents.land/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/memecoinlaunchpad.png" alt="Agents.Land" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🦍 Ape Store
+
+<table>
+<tr>
+<td width="60%">
+
+Designed and implemented a complete **pump.fun-style bonding curve system** — TokenFactory, curve engine, referrer router, real-time quotes, pause controls, and graduation to Uniswap-style AMM. Full launchpad UX with live pair discovery, wallet connect, and multi-network token deployment on Base.
+
+**Tech Stack:** Solidity, Base, TypeScript, Web3
+
+**Features:** Bonding Curve Engine | TokenFactory | Referrer Router | Real-time Quotes | Pause Controls | AMM Graduation | Live Pair Feed
+
+**Stats:** 15K+ Lines | 5K+ Users
+
+🔗 [Live Demo](https://ape.store/)
+
+</td>
+<td width="40%">
+
+<img src="./assets/apestore.png" alt="Ape Store" width="100%" />
+
+</td>
+</tr>
+</table>
+
+## Skills
+
+**Languages:** <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+**Blockchain:** <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Ethers.js-627EEA?style=flat-square&logo=ethersdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Anchor-000000?style=flat-square&logo=anchor&logoColor=white" />
+
+**Backend:** <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
+**Frontend:** <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+**Databases:** <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+**Tools:** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />  
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+**Open to collaboration, consulting, and exciting new projects**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sei_dev)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ajee335)
+
+**Reach out via Telegram or X for project inquiries, partnerships, or just to say hello!**
+
+</div>
+
