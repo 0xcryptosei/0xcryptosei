@@ -2,8 +2,6 @@
 
 > The sky has no limits. Why limit yourself
 
-Building high-performance decentralized applications with a deep focus on smart contracts, DeFi, and scalable backend systems.
-
 ## About
 
 I design and ship end-to-end products — from smart contracts and high-frequency trading bots to full-stack dashboards and AI agent platforms. Recent work includes a Polymarket HFT market-making bot (+$100k+ profits), a real-time Polymarket analysis toolkit, bonding-curve launchpads, and AI-powered NFT/game platforms on Solana and EVM.
