@@ -1,13 +1,23 @@
-# $100k+ profit traders, Researcher & developer
+# Blockchain Full-Stack AI Engineer
 
 > The sky has no limits. Why limit yourself
 
+Building high-performance decentralized applications with a deep focus on smart contracts, DeFi, and scalable backend systems.
+
 ## About
 
-I design and ship end-to-end products — from smart contracts and high-frequency trading bots to full-stack dashboards and AI agent platforms. Recent work includes a Polymarket HFT market-making bot (+$100k+ profits), a real-time Polymarket analysis toolkit, bonding-curve launchpads, and AI-powered NFT/game platforms on Solana and EVM.
 
+My passion lies in **DeFi protocol architecture**, **smart contract integration**, and **high-throughput backend systems** and bridging **AI**, **blockchain**, and **real-world data** to create full-stack decentralized applications that scale.
 
 ## Featured Projects
+
+<p align="left">
+  <em>Below are 16 production projects encompassing DeFi, AI agents, blockchain games, and infrastructure.</em>
+</p>
+
+<details>
+<summary><strong>Explore portfolio</strong> &nbsp;&middot;&nbsp; DeFi &nbsp;&middot;&nbsp; AI Agents &nbsp;&middot;&nbsp; Games &nbsp;&middot;&nbsp; Infrastructure</summary>
+<br>
 
 ### DeFi & Polymarket
 
@@ -414,6 +424,8 @@ Designed and implemented a complete **pump.fun-style bonding curve system** — 
 </td>
 </tr>
 </table>
+
+</details>
 
 ## Skills
 
