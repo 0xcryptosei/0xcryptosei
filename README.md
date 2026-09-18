@@ -15,6 +15,25 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
   <em>Below are 16 production projects encompassing DeFi, AI agents, blockchain games, and infrastructure.</em>
 </p>
 
+<p align="left">
+  <img src="./assets/polybot.png" alt="Polymarket HFT" width="46" />
+  <img src="./assets/polyhub.png" alt="Polyhub" width="46" />
+  <img src="./assets/agentipy.png" alt="AgentiPy" width="46" />
+  <img src="./assets/ocoya.png" alt="Ocoya" width="46" />
+  <img src="./assets/onyx.png" alt="Onyx AI Agent" width="46" />
+  <img src="./assets/snake.png" alt="Slither Game" width="46" />
+  <img src="./assets/casino.png" alt="GGsol" width="46" />
+  <img src="./assets/luck.png" alt="Luck Game" width="46" />
+  <img src="./assets/bt.png" alt="Rune Guardians" width="46" />
+  <img src="./assets/unboundgames.jpg" alt="Fighters Unbound" width="46" />
+  <img src="./assets/blog.png" alt="ChatDOC" width="46" />
+  <img src="./assets/cvjury.png" alt="CVJury" width="46" />
+  <img src="./assets/sintra.png" alt="Sintra" width="46" />
+  <img src="./assets/blockAI.png" alt="BlockAI" width="46" />
+  <img src="./assets/memecoinlaunchpad.png" alt="Agents.Land" width="46" />
+  <img src="./assets/apestore.png" alt="Ape Store" width="46" />
+</p>
+
 <details>
 <summary><strong>Explore portfolio</strong> &nbsp;&middot;&nbsp; DeFi &nbsp;&middot;&nbsp; AI Agents &nbsp;&middot;&nbsp; Games &nbsp;&middot;&nbsp; Infrastructure</summary>
 <br>
